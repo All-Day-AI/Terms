@@ -52,9 +52,15 @@ The following are violations of this Code of Conduct. So are threats to do them 
 - **Handle sensitive content responsibly.** If your session or comment needs to reference harmful material, including security research, present it with enough context that it informs people rather than harming them.
 - **Respect other people's employers.** Many attendees are describing internal systems in public. Do not push a speaker or attendee to disclose more than they have chosen to share.
 
+## Rules for event organizers ##
+- We don't send marketing spam.
+- We do send email about the conference, proceedings, schedule, speaker updates, conference resources (blogs, post-event session recordings, post event and community surveys).
+- We often have community supporter groups that help us promote the conference. Imagine a meetup in your local area. They sometimes ask for assistance in promoting their local speaker events. When no vendor pitches are involved and it supports community growth and learning, we try to help our friends and community where we can.
+- We promise no vendor pitching during the conference. We also promise it leading up to and following the event. This is not some ploy to get your signed-up for unwanted vendor emails.
+
 ## Recording and privacy
 
-Sessions are recorded and published after the event. Attendee cameras and microphones are not used, and questions or comments posted in session chat may appear in recordings and in content created from them.
+Sessions are for the conference are live on-air. They are recorded during the live event, and published after the event. Attendee cameras and microphones are not used, and questions or comments posted in session chat may appear in recordings and in content created from them.
 
 Do not record, screenshot, or republish private conversations, direct messages, or Discord channels that are not public, and do not repost someone's contribution in a way designed to hold them up for ridicule.
 
@@ -69,7 +75,7 @@ You can report an issue in any of these ways:
 - Use the report function in the event platform, if available on the day
 - Tell the MC or producer in a session, who will escalate immediately
 
-On event day, October 6, reports go to a dedicated moderation channel staffed for the full program, and we aim to acknowledge them within 15 minutes and act during the event where action is needed. Outside the event, we aim to acknowledge reports within two business days.
+On event day, October 22, reports go to a dedicated moderation channel staffed for the full program, and we aim to acknowledge them within 15 minutes and act during the event where action is needed. Outside the event, we aim to acknowledge reports within two business days.
 
 Tell us what happened, where, and roughly when. Screenshots or links help but are not required. You can report on behalf of someone else, and you can report anonymously by email, though it limits our ability to follow up with you.
 
@@ -85,21 +91,13 @@ If a moderator is involved in a report, they step out of handling it entirely.
 
 Depending on what happened and its impact, we may use any of the following. For serious violations we skip straight to the response that fits, rather than working up from the bottom.
 
-**Warning.** A private written warning explaining what crossed the line and what we expect going forward. Repair usually looks like a private apology and acknowledging the impact.
+**Zero Tolerence Policy.** If we hear of anything that does not fit with our Code of Conduct, administrators will remove the offending party from the conference system and Discourse channel. It does not matter how small the infraction is. We want everyone to have a good experience and we want to focus all of our time on supporting our community. If we feel that you have violated the terms of service, we kick you out of the conference. There are no warnings or investigations or conversations. Be nice, do good. We offer no appeals.
 
-**Restricted participation.** A private warning plus a time-limited restriction, such as being muted in chat, removed from a Discord channel, or asked to stay out of a particular space for a period. Repair looks like using the time to reflect and re-entering carefully.
+**Permanent ban.** We reserve the right to remove you from all All Day AI spaces, including Discord, with no return. Reserved for sustained patterns that other measures have not changed, or for behavior severe enough that the community cannot be kept safe otherwise.
 
-**Removal from the event.** Removal from a session or from the remainder of the event, with conditions attached to any future participation. Used for repeated violations after warnings, or for a single serious one.
-
-**Permanent ban.** Removal from all All Day AI spaces, including Discord, with no return. Reserved for sustained patterns that other measures have not changed, or for behavior severe enough that the community cannot be kept safe otherwise.
-
-Where a speaker violates this Code of Conduct, we may also stop their session, decline to publish the recording, or remove already published content.
+**Speakers violating the "No Vendor Pitches" rule**: Where a speaker violates this Code of Conduct, we will stop their session immediately, decline to publish the recording, and remove already published content. This is our rule. Do not break it. Do not test it.
 
 This is a guideline, not a mechanical process. Moderators use judgment, and their responsibility is to the safety of the community.
-
-## Appeals
-
-If you believe an enforcement action against you was mistaken, email **[conduct@alldayai.[tld]]** within 30 days with a brief explanation. An organizer who was not involved in the original decision will review it. Appeal decisions are final.
 
 ## Attribution
 
